@@ -1,5 +1,5 @@
 from tkinter import *
-from tkinter.ttk import Button, Progressbar
+from tkinter.ttk import Button
 import os
 import time
 import webbrowser
